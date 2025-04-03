@@ -6,7 +6,7 @@
 🚀 Currently working on: [UniLostFound](https://github.com/your-repo-link)  
 
 ### 🌐 Connect With Me  
-[![LinkedIn](www.linkedin.com/in/limpho-kgotla-4182582a2)]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/limpho-kgotla-4182582a2)  
 ---
 
 ### 🛠️ Tech Stack  
