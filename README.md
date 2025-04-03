@@ -19,7 +19,7 @@
 ---
 
 ### 🚀 Featured Projects  
-✅ [LostAndFoundry](https://github.com/your-lostandfoundry-repo)  
+✅ [LostAndFoundry](https://github.com/MissDee897/LostAndFoundry)   
 ✅ [Personal Portfolio](https://your-portfolio-link)  
 
 ---
